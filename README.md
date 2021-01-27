@@ -32,3 +32,8 @@ The inclusion of easy Dark Mode switching was an added bonus.
 GitHub Pages was the easiest choice for my hosting solution since it is provided entirely free for users.
 It is a very elegant solution for hosting static sites which was my target.
 It also has good support and GitHub Actions to make CD a breeze.
+
+# Development
+
+To develop this repo, simply open the repo in a Codespace and run `npm run dev`.
+Any merges to `main` will automatically be deployed to GitHub Pages via GitHub Actions.
